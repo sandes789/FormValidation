@@ -23,6 +23,9 @@ export default {
 </script>
 
 <style lang="scss">
+*a{
+  text-decoration: none;
+}
 .form {
   width: 500px;
   margin: auto;
